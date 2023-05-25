@@ -222,7 +222,7 @@ aside{
 
 #backend_demo{
     grid-area: 2/1/4/-1;
-    height: 50vh;
+    height: 60vh;
     width: 90vw;
     margin-left: 5vw;
 }
